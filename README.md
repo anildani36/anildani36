@@ -1,10 +1,10 @@
 Hi 👋 My name is Anil Dani
 ==========================
 
-Software developer with over 2 years of experience in Legal Publishing. Experienced in diverse development tools and methodologies, with a track record of transforming requirements into effective systems. Known for delivering high-quality solutions, improving operational efficiency, and enhancing project outcomes through strong team collaboration and mentorship
+Software engineer with over 3 years of experience in Legal Publishing. Experienced in diverse development tools and methodologies, with a track record of transforming requirements into effective systems. Known for delivering high-quality solutions, improving operational efficiency, and enhancing project outcomes through strong team collaboration and mentorship
 
 * 🌍  I'm based in Pune, India
-* 🖥️  See my portfolio at [Anil Dani Portfolio](http://demo.com)
+* 🖥️  See my portfolio at [Anil Dani Portfolio](https://portfolioanil.vercel.app/)
 * ✉️  You can contact me at [anildani36@gmail.com](mailto:anildani36@gmail.com)
 * 🧠  I'm learning Python Cloud Automation
 * 🤝  I'm open to collaborating on interesting python automation cloud projects
