@@ -1,23 +1,62 @@
-<h1 align="center">Hi 👋, I'm Anil Dani</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h1 align="center">Hi, I'm Anil Dani 👋</h1>
+<h3 align="center">Backend Engineer</h3>
 
-- 🌱 I’m currently learning **AWS Migrations/ Automations**
-
-- 👨‍💻 All of my projects are available at [https://portfolioanil.vercel.app/](https://portfolioanil.vercel.app/)
-
-- 📫 How to reach me **anildani36@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anildani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anildani" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/anildani36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anildani36" height="30" width="40" /></a>
+<p align="center">
+I build reliable backend systems using Python and cloud-native architectures.
+I enjoy turning complex requirements into clean, maintainable services that scale well and stay cost-efficient.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anildani36&show_icons=true&locale=en&layout=compact" alt="anildani36" /></p>
+### 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anildani36&show_icons=true&locale=en" alt="anildani36" /></p>
+- Backend Engineer with **4+ years of experience**
+- Currently working at **Thoughtworks**
+- Previously at **Jeeva AI** and **Infosys**
+- Focused on **Python, FastAPI, AWS**, and data-driven backends
+- Comfortable working end-to-end — from APIs and databases to cloud infrastructure
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anildani36&" alt="anildani36" /></p>
+---
+
+### 🌐 Portfolio
+
+- **Current Portfolio:**  
+  👉 https://anildani-portfolio.vercel.app
+
+- **Coming Soon:**  
+  A new **Portfolio v2** built with **Next.js + Python**, including a contact form to reach me directly via email.
+
+---
+
+### 🛠 Core Skills
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="SQL"/>
+</p>
+
+---
+
+### 📫 Contact
+
+- 📧 Email: **anildani36@gmail.com**
+- 💼 LinkedIn: https://www.linkedin.com/in/anildani
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anildani36&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=anildani36&show_icons=true&locale=en" alt="GitHub Stats"/>
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anildani36" alt="GitHub Streak"/>
+</p>
